@@ -4,7 +4,7 @@ Diseño e implantación de un entorno de seguridad defensiva sobre un laboratori
 
 | | |
 |---|---|
-| **Autores** | Isacc Danger Hernandez Consuegra | Ventura Aponte |
+| **Autores** | Isacc Danger Hernandez Consuegra & Ventura Aponte | 
 | **Ciclo** | Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR), modalidad virtual |
 | **Proyecto** | Proyecto intermodular, curso 2026-2027 |
 | **Tutor/a** | Simone Lonescu|
