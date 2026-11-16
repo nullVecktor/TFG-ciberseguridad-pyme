@@ -31,15 +31,6 @@ Un laboratorio que simula una oficina pequeña y la protege con herramientas 100
 
 ## Arquitectura
 
-```mermaid
-flowchart TB
-    NET((Internet NAT)) --- FW[Firewall OPNsense]
-    FW ---|LAN| PC["pc-cliente<br/>192.168.10.100"]
-    FW ---|SERVIDORES| SRV["srv-linux<br/>192.168.20.10"]
-    FW -.- WAZ["srv-wazuh<br/>192.168.20.20<br/>versión completa"]
-    FW -.- BAK["srv-backup<br/>192.168.20.30<br/>versión completa"]
-```
-
 ![Topología del laboratorio](docs/img/topologia.png)
 
 | Zona | Red | Equipos |
